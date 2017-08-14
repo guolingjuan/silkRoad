@@ -1,0 +1,15 @@
+{
+    "total":50,
+    "rows": [
+{"id":1,"companyName":"中国电信公司","companyType":"国有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":2,"companyName":"中国移动公司","companyType":"私有企业","companyAbbr":"移动","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":3,"companyName":"中国联通公司","companyType":"私有企业","companyAbbr":"联通","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":4,"companyName":"中国铁路公司","companyType":"国有企业","companyAbbr":"国铁","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":5,"companyName":"核电工程","companyType":"私有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":6,"companyName":"兰州银行","companyType":"私有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":7,"companyName":"中国电信公司","companyType":"私有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":8,"companyName":"中国电信公司","companyType":"私有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"},
+{"id":9,"companyName":"中国电信公司","companyType":"私有企业","companyAbbr":"电信","companyBusines":"食品生产","telephoneNumber":"18419956952","companyRegion":"天水及宝鸡","companyLicense":"合格","organizationCode":"通过","taxRegistCertificate":"合格","bankCount":"暂无","contactEmail":"glj@163.com","stores":"肯德基"}
+
+]
+}

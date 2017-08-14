@@ -1,0 +1,8 @@
+[
+  {"id":0,"userName":"半夏微凉","password":"1235445","storeName":"小明商行","storeType":"私营店","Company":"bin001","advertisingArea":"库尔勒连锁店大屏广告系统","MainBusiness":"库尔勒市区","telephoneNumber":"18419954241","storeAdress":"新加坡青林路","pushSwich":"开启","storeLicense":"小明商行营业执照","wechatAccount":"xm35345345","contactEmail":"2642316974@qq.com","loginIP":"192.168.1.1"},
+  {"id":1,"userName":"巴黎左岸","password":"1235445","storeName":"黄达商行","storeType":"私营店","Company":"bin001","advertisingArea":"鸡排锁店大屏广告系统","MainBusiness":"库尔勒市区","telephoneNumber":"18419954241","storeAdress":"新加坡青林路","pushSwich":"开启","storeLicense":"小明商行营业执照","wechatAccount":"xm35345345","contactEmail":"2642316974@qq.com","loginIP":"192.168.1.124"},
+  {"id":2,"userName":"精简造型","password":"1235445","storeName":"赵烈商行","storeType":"私营店","Company":"bin001","advertisingArea":"羊蹄连锁店大屏广告系统","MainBusiness":"库尔勒市区","telephoneNumber":"18419954241","storeAdress":"新加坡青林路","pushSwich":"禁止","storeLicense":"小明商行营业执照","wechatAccount":"xm35345345","contactEmail":"264s345974@qq.com","loginIP":"192.168.1.168"},
+  {"id":3,"userName":"虹造型","password":"1235445","storeName":"小明商行","storeType":"私营店","Company":"bin001","advertisingArea":"棒棒糖连锁店大屏广告系统","MainBusiness":"库尔勒市区","telephoneNumber":"18419954241","storeAdress":"新加坡青林路","pushSwich":"开启","storeLicense":"小明商行营业执照","wechatAccount":"xm35345345","contactEmail":"26468974@qq.com","loginIP":"192.168.1.121"},
+  {"id":4,"userName":"金榜发廊","password":"1235445","storeName":"小明商行","storeType":"私营店","Company":"bin001","advertisingArea":"库尔勒连锁店大屏广告系统","MainBusiness":"库尔勒市区","telephoneNumber":"18419954241","storeAdress":"新加坡青林路","pushSwich":"开启","storeLicense":"小明商行营业执照","wechatAccount":"xm35345345","contactEmail":"2642567974@qq.com","loginIP":"192.168.1.143"}
+
+]

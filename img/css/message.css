@@ -1,0 +1,13 @@
+
+.textbox{margin-left:15px;}
+
+#dialogAdd p{width:80%;height:30px;margin:10px 0 0 5px;line-height:30px;}
+#dialogAdd p label{width:33%;height:30px;font-size:14px;font-weight:bold;color:black;display:inline-block;}
+#dialogAdd p input{width:60%;height:22px;}
+#dialogAdd #textarea{width:80%;height:100px;display:block;}
+#dialogAdd #textarea textarea{display:inline-block;margin:10px 0 0 15px;}
+
+#editDialog .title,#dialogAdd .title{
+    width:96%;height:25px;background:#EDF4FF;font-weight:bold;margin-top:5px;
+}
+#tablefrom  tr,#Messageform tr{display:block;margin-top:5px;}

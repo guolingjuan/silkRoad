@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>消息表</title>
+</head>
+<link rel="stylesheet " type="text/css" href="../easyui/themes/default/easyui.css"/>
+<link type="text/css" rel="stylesheet" href="../easyui/themes/icon.css"/>
+<link rel="stylesheet" type="text/css" href="../css/message.css"/>
+<script type="text/javascript" src="../easyui/jquery.min.js"></script>
+<script type="text/javascript" src="../easyui/jquery.easyui.min.js"></script>
+
+<Script src="../js/message.js"></Script>
+<body>
+<table id="tb" data-options="fit:true"></table>
+<div id="dialogAdd">
+    <form id="Messageform" action="" method="post">
+        <table class="table-edit" align="right" style="width:95%;height:90%;margin-top:15px;">
+            <tr class="title">
+                <td colspan="2">消息表信息</td>
+            </tr>
+            <tr>
+                <td >广告区域</td>
+                <td style="width:170px" align="right">
+                    <input style="width:154px;margin-left:10px;" type="text" id="add_adArea" data-options="required:true" name="add_adArea"/>
+                </td>
+            </tr>
+            <tr>
+                <td>消息标题</td>
+                <td><input type="text" data-options="required:true"class="textbox easyui-validatebox" name="adtitle_add"/></td>
+            </tr>
+            <tr>
+                <td>消息类型</td>
+                <td><input type="text" data-options="required:true" class="textbox easyui-validatebox" name="adtype_add"/></td>
+            </tr>
+            <tr>
+                <td>消息内容</td>
+                <td><textarea data-options="required:true" rows="3" cols="18" class="textbox textArea easyui-validatebox" name="adcontent_add"></textarea></td>
+            </tr>
+            <tr>
+                <td>消息来源</td>
+                <td><input type="text" data-options="required:true" class="textbox easyui-validatebox" name="adregion_add"/></td>
+            </tr>
+            <tr>
+                <td>发布时间</td>
+                <td><input type="text" data-options="required:true" class="textbox easyui-validatebox" name="adtime_add"/></td>
+            </tr>
+        </table>
+    </form>
+</div>
+<div id="editDialog">
+    <form id="editInformationForm" action=" " method="post">
+        <table class="table_edit " cellspacing="8" id="Edit_table" align="right" style="width:95%;height:90%;">
+            <tr class="title">
+                <td colspan="2">消息表信息</td>
+            </tr>
+            <tr>
+                <td>广告区域</td>
+                <td>
+                    <input type="text" id="edit_adArea" data-options="required:true" name="add_adArea"/>
+                </td>
+            </tr>
+            <tr>
+                <td>消息标题</td>
+                <td>
+                    <script type="text/javascript">
+                        $(function(){
+                            //为保存按钮绑定事件
+                            $("#edit").click(function(){
+                                //表单校验，如果通过，提交表单
+                                var v = $("#editInformationForm").form("validate");
+                                if(v){
+                                    //$("#addStaffForm").form("submit");
+                                    $("#editInformationForm").submit();
+                                }
+                            });
+                        });
+                    </script>
+                    <input type="text" name="informationTitle" class="easyui-validatebox" required="true"/></td>
+            </tr>
+            <tr>
+                <td>消息类型</td>
+                <td><input type="text" name="informationType" class="easyui-validatebox" required="true"/></td>
+            </tr>
+
+            <tr>
+                <td>消息内容</td>
+                <td><textarea cols="19" rows="3" name="informationContent" class="easyui-validatebox" required="true"></textarea></td>
+            </tr>
+            <tr>
+                <td>消息来源</td>
+                <td><input type="text" name="informationRegion" class="easyui-validatebox" required="true"/></td>
+            </tr>
+            <tr>
+                <td>发布时间</td>
+                <td><input type="text" name="informationTime" class="easyui-validatebox" required="true"/></td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+<div id="searchDialog">
+
+</div>
+</body>
+</html>

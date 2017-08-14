@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,
+    "name":"广告屏业务",
+    "children":[{
+      "id":"11",
+      "name":"公司设置",
+      "checked":true,
+      "page":"html/company.html"
+  },{
+      "id":"12",
+      "name":"店面管理",
+      "checked":true,
+      "page":"html/commerce.html"
+    },{
+      "id":"13",
+      "name":"广告域设置",
+      "page":"html/advertise.html"
+    },{
+      "id":"14",
+      "name":"通知管理",
+      "page":"html/inform.html"
+    },{
+      "id":"15",
+      "name":"消息管理",
+      "page":"html/message.html"
+    }]
+  },
+  {
+    "id":2,
+    "name":"数据业务",
+    "children":[{
+
+    }]
+  },
+  {
+    "id":3,
+    "name":"微信公众号",
+    "children":[{
+
+      }]
+    }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "用户管理",
+    "children": [
+      {
+        "id": 111,
+        "name": "用户账号管理",
+        "iconCls": "icon-user",
+        "checked": true,
+        "page": "http://localhost:8080/silkRoad1/public/userManager.html"
+      },
+      {
+        "id": 112,
+        "name": "用户交易记录管理",
+        "iconCls": "icon-deal",
+        "checked": true,
+        "page": "http://www.baidu.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "角色管理",
+    "children": [
+      {
+        "id": 21,
+        "name": "管理员",
+        "checked": true,
+        "page": "http://localhost:8080/SilkRoad/js/userManager.html"
+      },
+      {
+        "id": 22,
+        "name": "个人",
+        "checked": true,
+        "page": "http://www.baidu.com"
+      }
+    ]
+},
+  {
+    "id": 3,
+    "name": "权限管理",
+    "children": [
+      {
+        "id": 21,
+        "name": "管理员",
+        "checked": true,
+        "page": "http://localhost:8080/SilkRoad/js/userManager.html"
+      },
+      {
+        "id": 22,
+        "name": "个人",
+        "checked": true,
+        "page": "http://www.baidu.com"
+      }
+    ]
+  }
+,{
+  "id": 4,
+  "name": "日志管理",
+  "children": [
+    {
+      "id": 41,
+      "name": "编辑日志",
+      "checked": true,
+      "page": "http://localhost:8080/SilkRoad/js/userManager.html"
+    },
+    {
+      "id": 42,
+      "name": "管理日志",
+      "checked": true,
+      "page": "http://www.baidu.com"
+    }
+  ]
+}
+
+
+
+
+]
